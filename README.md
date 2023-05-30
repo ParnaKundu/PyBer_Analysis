@@ -15,7 +15,11 @@ The results above indicate that the urban cities have a higher count of rides ov
 
 All city types have a comparable average fare per ride.
 
-Analysis of the fares for each city type over a four month period indicates a steady inflow of revenue. The comparison for each city type can be seen in [PyBer_fare_summary](https://github.com/ParnaKundu/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png). This chart clearly shows how the urban cities have the maximum usage of the ride-share program.
+Analysis of the fares for each city type over a four month period indicates a steady inflow of revenue. The comparison for each city type is shown below :- 
+
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png). 
+
+<b> This chart clearly shows how the urban cities have the maximum usage of the ride-share program. </b>
 
 ## Summary
 
