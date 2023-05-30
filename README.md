@@ -9,7 +9,9 @@ The purpose of this project is to perform exploratory analysis of data for a Pyt
 
 The ride-share data for all cities is analyzed and summarized based on the city types. 
 
-The results [Ride_share_summary](https://github.com/ParnaKundu/PyBer_Analysis/blob/main/analysis/Ride_share_summary.png) indicate that the urban cities have a higher count of rides over the rural and suburban cities. In addition, the urban cities have the most drivers which results in a lower average fare per driver. 
+![Ride_share_summary](analysis/Ride_share_summary.png)
+
+The results above indicate that the urban cities have a higher count of rides over the rural and suburban cities. In addition, the urban cities have the most drivers which results in a lower average fare per driver. 
 
 All city types have a comparable average fare per ride.
 
